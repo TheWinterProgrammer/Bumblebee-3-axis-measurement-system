@@ -46,7 +46,7 @@ There a tree major parts:
    - Arduino MEGA for robot control and interfacing [here](Software/Arduino/).
    - Support for various sensors through serial communication.
 
-3. **Software** [here](Software/Python GUI/)
+3. **Software** [here](Software/PythonGUI/)
    - Python script to manage mapping and communication.
 
 ### Usage
