@@ -61,6 +61,30 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+._*
+
+# Spotlight files
+.Spotlight-V100
+.Trashes
+
+# macOS-specific files
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.fseventsd
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
 # Flask stuff:
 instance/
 .webassets-cache
