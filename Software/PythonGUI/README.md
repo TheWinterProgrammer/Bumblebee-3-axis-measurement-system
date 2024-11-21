@@ -54,8 +54,12 @@ You need Python **3.8** or newer. Follow these steps to set up and run the softw
   ```bash
   source myenv/bin/activate
   ```
-
-### 2. Run the Software
+### 2. Get the required libraries
+Download the required libraries, with:
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the Software
 1. Start the program with the following command:
   ```bash
   python ALFRobotSoftware.py

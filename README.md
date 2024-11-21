@@ -57,9 +57,9 @@ There a tree major parts:
 
 ---
 ## Author
-   - Judith Samlov [E-Mail](judith.samlov@tuebingen.mpg.de) (Hardware and Software) 
-   - Pavel Povolni [E-Mail](pavel.povolni@tuebingen.mpg.de)[Github](https://github.com/ppolGTMonster) (Hardware and Software)
-   - Sergej Maltsev [E-Mail](sergej.maltsev@tuebingen.mpg.de)[Github](https://github.com/TheWinterProgrammer) (Software Python GUI)
+   - Judith Samlov ([E-Mail](judith.samlov@tuebingen.mpg.de)), (Hardware and Software) 
+   - Pavel Povolni ([E-Mail](pavel.povolni@tuebingen.mpg.de), [Github](https://github.com/ppolGTMonster)), (Hardware and Software)
+   - Sergej Maltsev ([E-Mail](sergej.maltsev@tuebingen.mpg.de), [Github](https://github.com/TheWinterProgrammer)), (Software Python GUI)
 
 ### Contact
 For further inquiries or contributions, feel free to reach out through the repository. 
