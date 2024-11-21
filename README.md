@@ -29,7 +29,7 @@ The **Bumblebee 3-Axis Measurement System** is a versatile, open-source, cubic p
 ## Publication
 
 This work was presented and published as a conference paper:  
-**Samlow J, Maltsev S , Buckenmaier K, Scheffler K, Povolni P (2024). Easy Rebuildable Cubic 3-Axis Positioning Robot Based on Open-Source Hardware: Validated via Camera-Based Motion Tracking and Initial Application in Magnetic Low Field Mapping.** *DACH-ISMRM 2024 Program & Proceedings, Tübingen, Germany*, pp. 1–2.
+**Samlow J, Maltsev S [TheWinterProgrammer](https://github.com/TheWinterProgrammer), Buckenmaier K, Scheffler K, Povolni P [ppolGTMonster](https://github.com/ppolGTMonster) (2024). Easy Rebuildable Cubic 3-Axis Positioning Robot Based on Open-Source Hardware: Validated via Camera-Based Motion Tracking and Initial Application in Magnetic Low Field Mapping.** *DACH-ISMRM 2024 Program & Proceedings, Tübingen, Germany*, pp. 1–2.
 
 ---
 
