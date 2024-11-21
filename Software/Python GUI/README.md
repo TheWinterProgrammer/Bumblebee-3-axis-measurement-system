@@ -34,25 +34,25 @@ You need Python **3.8** or newer. Follow these steps to set up and run the softw
    cd path/to/project
 
 3. Create a virtual environment:
-  '''bash
+  ```bash
   python3 -m venv myenv
 
 4. Activate the virtual environment:
  - On macOS/Linux:
-    '''bash
+    ```bash
     source myenv/bin/activate
 
 - On Windows:
-    '''bash
+    ```bash
     myenv\Scripts\activate
 
 5. Once activated, install the required libraries:
-  '''bash
+  ```bash
   source myenv/bin/activate
 
 ### 2. Run the Software
 1. Start the program with the following command:
-  '''bash
+  ```bash
   python ALFRobotSoftware.py
 
 2. The GUI will open, and you can begin using the application.

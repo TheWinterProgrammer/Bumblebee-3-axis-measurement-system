@@ -29,7 +29,7 @@ We used the following parts for the 3D drive. These may be relevant if adapting 
 
 For this version of COSI Measure, we used an **Arduino Mega** as the central microcontroller (µC).  
 
-<img src="Hardware/Images/Bild.png" width="300">
+<img src="Images/Bild.png" width="300">
 
 While assembling, some errors in the V1.0 PCB design were identified and corrected in version V2.0, which is made available here.  
 
