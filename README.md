@@ -38,7 +38,7 @@ This work was presented and published as a conference paper:
 There a tree major parts:
 
 ### System Components
-1. **Hardware** [here](Hardware/)
+1. **Hardware** [here](Hardware)
    - Rebuilt mechanical design for larger volume mapping.
    - Compact yet efficient cubic robot frame.
 
@@ -46,7 +46,7 @@ There a tree major parts:
    - Arduino MEGA for robot control and interfacing [here](Software/Arduino/).
    - Support for various sensors through serial communication.
 
-3. **Software** [here](Software/Python GUI/)
+3. **Software** [here](Software/Python GUI)
    - Python script to manage mapping and communication.
 
 ### Usage
